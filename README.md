@@ -1,19 +1,19 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://mahmudulhassan.me">Mahmudul</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://mahmudulhassan.me">Vishnu </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
 </div>
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/promahmudul/">
-  <img align="center" alt="Mahmudul Hassan | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/vishnu-choudhary-117808179/">
+  <img align="center" alt="Vishnu | Linkedin" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" />
 </a>
-<a href="https://mahmudulhassan.me/">
-  <img align="center" alt="Mahmudul's Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
+<a href="#">
+  <img align="center" alt="Vishnu Website" src="https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white" />
 </a>
-<a href="https://facebook.com/ProMahmudul">
-  <img align="center" alt="Mahmudul's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
+<a href="https://www.facebook.com/vishnu.choudhary2822">
+  <img align="center" alt="Vishnu's Facebook" src="https://img.shields.io/badge/Facebook-0D88F0?style=flat-square&logo=facebook&logoColor=white" />
 </a>
-<img align="center" alt="Mahmuduls's Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
+<img align="center" alt="Vishnu Skype" src="https://img.shields.io/badge/engrhassan7-0094E1?style=flat-square&logo=skype&logoColor=white" />
  </p>
 
 
@@ -36,8 +36,7 @@ I'm a 3 years Softwere Developer from Jaipur. I mainly code in Php and JavaScrip
 - 🚀 &nbsp; I’m currently learning everything 🤣
 - 💬 &nbsp; Ask me about anything! I am happy to help.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
-- 📫 &nbsp; How to reach me: mahmudul.coder@gmail.com.
-- 📝 &nbsp; Checkout my [Resume](https://mahmudulhassan.me).
+- 📫 &nbsp; How to reach me: jatvishnu2822@gmail.com.
 
 ### My Absolute Favorites:
 
@@ -70,15 +69,6 @@ I'm a 3 years Softwere Developer from Jaipur. I mainly code in Php and JavaScrip
 ![Illustrator](https://img.shields.io/badge/-Adobe&nbsp;Illustrator-000?&logo=Adobe-illustrator&logoColor=fff)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux&logoColor=fff)
 
-
-
-### - My GitHub Stats
-
-<p align="center" >
-<a href="https://github.com/promahmudul/github-readme-stats"> 
-    <img  src="https://github-readme-stats.vercel.app/api?username=ProMahmudul&&show_icons=true&theme=radical"/>
-  </a>
-</p>
 
 <br>
 
